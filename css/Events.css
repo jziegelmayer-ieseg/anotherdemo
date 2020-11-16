@@ -1,0 +1,130 @@
+/*CSS FOR EVENTS PAGE*/
+
+
+
+
+/* GENERAL */
+
+.PostalCode p{
+
+	position: absolute;
+	width: 355px;
+	height: 38px;
+	margin-left: 20px;
+	margin-top: 100px;
+}
+
+.TypeEvent p{
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 175px;
+}
+
+
+
+
+/* HEADER */
+
+header{
+	height: 206px;
+	background : url("images/Header.png") center;
+	width: 1368px;
+	margin-top: -10px;
+	margin-left: -10px;
+}
+
+header h1{
+	font-family: Indie Flower;
+	font-size: 72px;
+	font-weight: 400;
+	margin: 10px 400px 108px 246px;
+	padding-bottom: 13px;
+}
+
+
+p { 
+	font-family: Roboto;
+	font-weight: 300;
+	font-size: 24px;
+	margin: -130px 0px 100px 246px;
+}
+
+#logo{
+	position: absolute;
+	width: 202px;
+	height: 106px;
+	margin-top: 5px;
+}
+
+#OrangeDot{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	margin: 15px 0px 0px 1300px;
+
+}
+
+
+/* Events */
+
+.cards{
+	margin: 10px;
+	padding : 10px;
+
+}
+
+.Card-Event{
+	width: 400px;
+	height: 240px;
+	margin: 240px 20px 0px 20px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	float: left;
+
+
+}
+
+.Card-Event img{
+	width: 400px;
+	height: 240px;
+	
+}
+
+.Card-OtherEvents{
+	width: 400px;
+	height: 240px;
+	margin: 40px 0px 0px 460px ;
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 500px;
+	text-align: center;
+	float: left;
+
+}
+
+.CardTitles{
+	position: relative;
+	margin: 0px;
+	background-color: #E7DDD3;
+}
+
+
+
+/* Contact */
+
+.Contact p{
+	font-family: Roboto;
+	position: absolute;
+	width: 484px;
+	height: 32px;
+	margin-left: 500px;
+	margin-top: 983px;
+}
+
+
+
+
+
+/*CSS FOR EVENTS PAGE */

@@ -1,0 +1,31 @@
+/*CSS FOR REGISTERING PAGE*/
+
+
+
+
+.card-recipe{
+	display: flex;
+	width: 450px;
+	margin: 30px;
+	text-align: left;
+	background-color: red;
+	vertical-align: middle;
+
+	
+}
+
+
+
+.det-recipe{
+
+
+	background-color: yellow;
+
+
+}
+
+.img-circle{
+	border-radius: 50px;
+	margin: auto;
+}
+
